@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T23:14:33.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fqbW8kTr8utNiSbZ0MpP" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T23:20:55.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZD0wsvcxu6zGStb3FxXY" version="14.7.2" type="github">
   <diagram id="Ek7FCcccKqossJ2SFfHG" name="Page-1">
-    <mxGraphModel dx="1038" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rwt07ugf8TW4-gDHE261-2" value="System operacyjny&amp;nbsp; &amp;nbsp; &amp;nbsp; jednostki fizycznej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#f8cecc;strokeWidth=2;strokeColor=#853D3A;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rwt07ugf8TW4-gDHE261-2" value="System operacyjny&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;jednostki fizycznej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#f8cecc;strokeWidth=2;strokeColor=#853D3A;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="490" width="600" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rwt07ugf8TW4-gDHE261-42" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Maszyna wirtualna nr 3&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;horizontal=1;align=center;verticalAlign=top;" vertex="1" parent="1">
