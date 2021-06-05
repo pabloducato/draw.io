@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T23:22:58.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YXFFSHwZAqeEh9ZJxJF7" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T23:27:58.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="mfdbocUizi7JYsQh2LWU" version="14.7.2" type="github">
   <diagram id="Ek7FCcccKqossJ2SFfHG" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="120" y="490" width="600" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rwt07ugf8TW4-gDHE261-42" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Maszyna wirtualna nr 3&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;horizontal=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="518" y="230" width="200" height="260" as="geometry" />
+          <mxGeometry x="518" y="220" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="rwt07ugf8TW4-gDHE261-41" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Maszyna wirtualna nr 2&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;horizontal=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="321" y="230" width="196" height="260" as="geometry" />
+          <mxGeometry x="321" y="220" width="196" height="270" as="geometry" />
         </mxCell>
         <mxCell id="rwt07ugf8TW4-gDHE261-18" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Maszyna wirtualna nr 1&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;horizontal=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="200" height="260" as="geometry" />
+          <mxGeometry x="120" y="220" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="rwt07ugf8TW4-gDHE261-1" value="Zasoby sprzętowe jednostki fizycznej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#e1d5e7;strokeWidth=2;strokeColor=#6F557A;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="600" height="40" as="geometry" />
