@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T17:50:44.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="aIfaThwoT-g6uqke3o6C" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T17:54:45.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gxJcDmDcFgNPtqmy2lMN" version="14.7.6" type="github">
   <diagram id="-4Z6FOAkE3qTFUZ1h70r" name="Page-1">
-    <mxGraphModel dx="485" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,13 @@
         <mxCell id="olDZwoAkccoX-fCX4pLG-1" value="Zasoby sprzętowe jednostki fizycznej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#e1d5e7;strokeWidth=2;strokeColor=#6F557A;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="olDZwoAkccoX-fCX4pLG-2" value="System operacyjny&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;jednostki fizycznej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#f8cecc;strokeWidth=2;strokeColor=#853D3A;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="olDZwoAkccoX-fCX4pLG-2" value="System operacyjny&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;jednostki fizycznej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#f8cecc;strokeWidth=2;strokeColor=#853D3A;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="600" height="140" as="geometry" />
         </mxCell>
         <mxCell id="olDZwoAkccoX-fCX4pLG-4" value="Kernel" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#517040;" vertex="1" parent="1">
           <mxGeometry x="145" y="436" width="560" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="olDZwoAkccoX-fCX4pLG-5" value="&lt;font color=&quot;#000000&quot;&gt;Silnik konteneryzacji + Minimalny system operacyjny gościa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="olDZwoAkccoX-fCX4pLG-5" value="&lt;font color=&quot;#000000&quot;&gt;Silnik konteneryzacji + minimalny system operacyjny gościa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="145" y="360" width="560" height="42" as="geometry" />
         </mxCell>
         <mxCell id="olDZwoAkccoX-fCX4pLG-6" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=16;strokeWidth=2;" edge="1" parent="1">
