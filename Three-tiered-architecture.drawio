@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T13:32:50.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.7.6" etag="e_pA-TT4nbg7Sd28d28x" type="github"><diagram id="O4zRkt1bUG9zjVf2ZD48">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:04:01.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="PS41drjeYGwu9NI0EFRW" version="14.7.6" type="github">
+  <diagram id="O4zRkt1bUG9zjVf2ZD48" name="Page-1">
+    <mxGraphModel dx="1038" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="voKerk4mAkdprkkmLQft-1" value="Warstwa prezentacji" style="swimlane;startSize=40;fontSize=15;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="320" as="geometry">
+            <mxRectangle x="40" y="120" width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png;fontSize=15;" vertex="1" parent="voKerk4mAkdprkkmLQft-1">
+          <mxGeometry y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=15;" vertex="1" parent="voKerk4mAkdprkkmLQft-1">
+          <mxGeometry x="100" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-16" value="Serwer główny Front-end&#39;u (widoki + interfejs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="voKerk4mAkdprkkmLQft-1">
+          <mxGeometry y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-21" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;fontSize=15;exitX=1.005;exitY=0.165;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="voKerk4mAkdprkkmLQft-1" source="voKerk4mAkdprkkmLQft-6" target="voKerk4mAkdprkkmLQft-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="450" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-22" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="voKerk4mAkdprkkmLQft-1" source="voKerk4mAkdprkkmLQft-6" target="voKerk4mAkdprkkmLQft-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="80" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-23" value="" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png;fontSize=15;strokeWidth=1;fillColor=#FFFF33;" vertex="1" parent="voKerk4mAkdprkkmLQft-1">
+          <mxGeometry y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-24" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;fontSize=15;entryX=-0.025;entryY=0.635;entryDx=0;entryDy=0;exitX=1.005;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="voKerk4mAkdprkkmLQft-1" source="voKerk4mAkdprkkmLQft-23" target="voKerk4mAkdprkkmLQft-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="450" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-25" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;fontSize=15;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="voKerk4mAkdprkkmLQft-1" source="voKerk4mAkdprkkmLQft-7" target="voKerk4mAkdprkkmLQft-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="450" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-2" value="Warstwa logiki biznesowej" style="swimlane;startSize=40;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="200" height="320" as="geometry">
+            <mxRectangle x="40" y="120" width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=15;" vertex="1" parent="voKerk4mAkdprkkmLQft-2">
+          <mxGeometry x="60" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-15" value="Serwer główny Back-end&#39;u (serwisy + kontrolery)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="voKerk4mAkdprkkmLQft-2">
+          <mxGeometry y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-3" value="Warstwa utrwalania danych" style="swimlane;startSize=40;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="200" height="320" as="geometry">
+            <mxRectangle x="40" y="120" width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=15;" vertex="1" parent="voKerk4mAkdprkkmLQft-3">
+          <mxGeometry x="60" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-14" value="Serwer główny bazy danych (repozytoria)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="voKerk4mAkdprkkmLQft-3">
+          <mxGeometry y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-17" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;dashed=1;entryX=1.015;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.005;exitY=0.405;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="voKerk4mAkdprkkmLQft-9" target="voKerk4mAkdprkkmLQft-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="312" as="sourcePoint" />
+            <mxPoint x="460" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-18" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;entryX=0.993;entryY=0.615;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;exitX=-0.015;exitY=0.595;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="voKerk4mAkdprkkmLQft-9" target="voKerk4mAkdprkkmLQft-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="329" as="sourcePoint" />
+            <mxPoint x="475" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-19" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;fontSize=15;entryX=1.015;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.037;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="voKerk4mAkdprkkmLQft-8" target="voKerk4mAkdprkkmLQft-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="490" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="voKerk4mAkdprkkmLQft-20" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;fontSize=15;exitX=1.015;exitY=0.605;exitDx=0;exitDy=0;entryX=-0.037;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="voKerk4mAkdprkkmLQft-7" target="voKerk4mAkdprkkmLQft-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="490" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
